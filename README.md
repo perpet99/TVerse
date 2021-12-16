@@ -1,3 +1,9 @@
+# QnA
+
+join discord
+
+https://discord.gg/ntq8qbe2
+
 # how to use
 
 1.create your discord webhook
