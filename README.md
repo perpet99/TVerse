@@ -16,7 +16,14 @@ https://drive.google.com/drive/my-drive
 
 6. wifi on And Connect Ez share
 
-7
+7. click test1 and check log ("")
+
+8. click test2 and check log ("")
+
+9. click test3 and check log ("")
+10. start monitoring!
+
+
 
 # TVerse (tesla sentry mode alarm)
 
