@@ -29,6 +29,7 @@ https://drive.google.com/drive/my-drive
 9. click test3 and check log ("")
 10. start monitoring!
 
+<img src="https://github.com/perpet99/TVerse/blob/master/3.jpg" width="100" height="100">
 
 ![image](https://github.com/perpet99/TVerse/blob/master/3.jpg ){:height="400px" width="700px"}
 
