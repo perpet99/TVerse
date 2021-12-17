@@ -17,8 +17,10 @@ https://drive.google.com/drive/my-drive
 3. app downlaod (앱 다운로드)
 
 4.모바일 데이터만 사용하는 앱 활성화 (아래 이미지 1 번참고)
+
 5. wifi on And Connect Ez share (password:8888888)  ezshare 와아피아 연결
-6. 와이파이 연결 아이콘 및 lte 연결 아이콘 활성화 확인 ( 아래 이미지 3번 확인)
+
+7. 와이파이 연결 아이콘 및 lte 연결 아이콘 활성화 확인 ( 아래 이미지 3번 확인)
 
 <img src="https://github.com/perpet99/TVerse/blob/master/4.jpg" width="200" height="100">
 
