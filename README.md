@@ -18,6 +18,8 @@ https://drive.google.com/drive/my-drive
 
 4.모바일 데이터만 사용하는 앱 활성화 (아래 이미지 1 번참고)
 
+<img src="https://github.com/perpet99/TVerse/blob/master/3.jpg" width="200" height="200">
+
 5. wifi on And Connect Ez share (password:8888888)  ezshare 와아피아 연결
 
 7. 와이파이 연결 아이콘 및 lte 연결 아이콘 활성화 확인 ( 아래 이미지 3번 확인)
@@ -25,6 +27,7 @@ https://drive.google.com/drive/my-drive
 <img src="https://github.com/perpet99/TVerse/blob/master/4.jpg" width="200" height="100">
 
 8. Ezshare 자동연결 활성화 및 아이콘 (아래 이미지 2번참고)
+9. <img src="https://github.com/perpet99/TVerse/blob/master/3.jpg" width="200" height="200">
 
 4. login google drive account
 
@@ -39,7 +42,7 @@ https://drive.google.com/drive/my-drive
 9. click test3 and check log ("")
 10. start monitoring!
 
-<img src="https://github.com/perpet99/TVerse/blob/master/3.jpg" width="500" height="500">
+
 
 
 
