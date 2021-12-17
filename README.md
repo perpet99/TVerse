@@ -30,7 +30,7 @@ https://drive.google.com/drive/my-drive
 10. start monitoring!
 
 
-![image](https://github.com/perpet99/TVerse/blob/master/3.jpg | width=100)
+![image](https://github.com/perpet99/TVerse/blob/master/3.jpg ){:height="400px" width="700px"}
 
 # TVerse (tesla sentry mode alarm)
 
