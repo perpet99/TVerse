@@ -20,7 +20,7 @@ https://drive.google.com/drive/my-drive
 5. wifi on And Connect Ez share (password:8888888)  ezshare 와아피아 연결
 6. 와이파이 연결 아이콘 및 lte 연결 아이콘 활성화 확인 ( 아래 이미지 3번 확인)
 
-<img src="https://github.com/perpet99/TVerse/blob/master/4.jpg" width="200" height="200">
+<img src="https://github.com/perpet99/TVerse/blob/master/4.jpg" width="200" height="100">
 
 8. Ezshare 자동연결 활성화 및 아이콘 (아래 이미지 2번참고)
 
