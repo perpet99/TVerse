@@ -39,7 +39,9 @@ https://drive.google.com/drive/my-drive
 
 <img src="https://github.com/perpet99/TVerse/blob/master/6.jpg" width="200" height="200">
 
-7. click test 1 and check log ("")
+7. click "test connecting Ez share" button and wait discord message
+
+
 
 8. click test2 and check log ("")
 
