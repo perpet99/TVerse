@@ -27,15 +27,19 @@ https://drive.google.com/drive/my-drive
 <img src="https://github.com/perpet99/TVerse/blob/master/4.jpg" width="200" height="100">
 
 8. Ezshare 자동연결 활성화 및 아이콘 (아래 이미지 2번참고)
-9. <img src="https://github.com/perpet99/TVerse/blob/master/3.jpg" width="200" height="200">
+<img src="https://github.com/perpet99/TVerse/blob/master/3.jpg" width="200" height="200">
 
 4. login google drive account
 
-5. update you webhook url
+5. input and click update button 
 
-6. wifi on And Connect Ez share
+<img src="https://github.com/perpet99/TVerse/blob/master/5.jpg" width="200" height="200">
 
-7. click test1 and check log ("")
+6. check mesaage  your discord app
+
+<img src="https://github.com/perpet99/TVerse/blob/master/6.jpg" width="200" height="200">
+
+7. click test 1 and check log ("")
 
 8. click test2 and check log ("")
 
