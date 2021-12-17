@@ -33,29 +33,29 @@ https://drive.google.com/drive/my-drive
 
 
 
-9. input and click update button 
+9.input  webhook url and click update button  (웹훅을 입력하고 업데이트 버튼을 누릅니다)
 
 <img src="https://github.com/perpet99/TVerse/blob/master/5.jpg" width="200" height="200">
 
-10. check mesaage  your discord app
+10. check mesaage  your discord app ( 업데이트가 성공하면 디스코드에 메세지가 뜹니다.)
 
 <img src="https://github.com/perpet99/TVerse/blob/master/6.jpg" width="200" height="200">
 
-11. click "test connecting Ez share" button and wait discord message
+11. click "test connecting Ez share" button and wait discord message ( ez share usb 접속 테스트 버튼을 누루고 디스코드에 "test connecting Ez share success" 메세지를 확인합니다)
 
 <img src="https://github.com/perpet99/TVerse/blob/master/10.jpg" width="200" height="200">
 
 <img src="https://github.com/perpet99/TVerse/blob/master/8.jpg" width="200" height="200">
 
 
-12. click "test upload file" button and wait discord message  
+12. click "test upload file" button and wait discord message  ( 파일 업로드 테스트 버튼을 클릭하고 디스코드에 "test upload file success" 메세지를 확인합니다)
 
 <img src="https://github.com/perpet99/TVerse/blob/master/11.jpg" width="200" height="200">
 
 <img src="https://github.com/perpet99/TVerse/blob/master/9.jpg" width="200" height="200">
 
 
-13. click start monitoring!
+13. click start monitoring! ( 모니터링 버튼을 클릭하면 센트리모드에 파일이 생기면 디스코드에 알람을 울려줍니다)
 
 <img src="https://github.com/perpet99/TVerse/blob/master/12.jpg" width="200" height="200">
 
