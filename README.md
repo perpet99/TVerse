@@ -18,11 +18,11 @@ https://drive.google.com/drive/my-drive
 
 4. login google drive account
 
-4.모바일 데이터만 사용하는 앱 활성화 (아래 이미지 1 번참고)
+5.모바일 데이터만 사용하는 앱 활성화 (아래 이미지 1 번참고)
 
 <img src="https://github.com/perpet99/TVerse/blob/master/3.jpg" width="200" height="200">
 
-5. wifi on And Connect Ez share (password:8888888)  ezshare 와아피아 연결
+6. wifi on And Connect Ez share (password:8888888)  ezshare 와아피아 연결
 
 7. 와이파이 연결 아이콘 및 lte 연결 아이콘 활성화 확인 ( 아래 이미지 3번 확인)
 
@@ -33,30 +33,31 @@ https://drive.google.com/drive/my-drive
 
 
 
-5. input and click update button 
+9. input and click update button 
 
 <img src="https://github.com/perpet99/TVerse/blob/master/5.jpg" width="200" height="200">
 
-6. check mesaage  your discord app
+10. check mesaage  your discord app
 
 <img src="https://github.com/perpet99/TVerse/blob/master/6.jpg" width="200" height="200">
 
-7. click "test connecting Ez share" button and wait discord message
+11. click "test connecting Ez share" button and wait discord message
 
 <img src="https://github.com/perpet99/TVerse/blob/master/10.jpg" width="200" height="200">
 
 <img src="https://github.com/perpet99/TVerse/blob/master/8.jpg" width="200" height="200">
 
 
-7. click "test upload file" button and wait discord message  
+12. click "test upload file" button and wait discord message  
 
 <img src="https://github.com/perpet99/TVerse/blob/master/11.jpg" width="200" height="200">
 
 <img src="https://github.com/perpet99/TVerse/blob/master/9.jpg" width="200" height="200">
 
 
-10. click start monitoring!
+13. click start monitoring!
 
+<img src="https://github.com/perpet99/TVerse/blob/master/12.jpg" width="200" height="200">
 
 
 
