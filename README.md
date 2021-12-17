@@ -14,7 +14,9 @@ https://gall.dcinside.com/mgallery/board/view/?id=purikone_redive&no=6058523
 
 https://drive.google.com/drive/my-drive
 
-3. app downlaod (앱 다운로드)
+3. app downlaod and run (앱 다운로드 및 실행)
+
+4. login google drive account
 
 4.모바일 데이터만 사용하는 앱 활성화 (아래 이미지 1 번참고)
 
@@ -29,7 +31,7 @@ https://drive.google.com/drive/my-drive
 8. Ezshare 자동연결 활성화 및 아이콘 (아래 이미지 2번참고)
 <img src="https://github.com/perpet99/TVerse/blob/master/3.jpg" width="200" height="200">
 
-4. login google drive account
+
 
 5. input and click update button 
 
@@ -41,12 +43,19 @@ https://drive.google.com/drive/my-drive
 
 7. click "test connecting Ez share" button and wait discord message
 
+<img src="https://github.com/perpet99/TVerse/blob/master/10.jpg" width="200" height="200">
+
+<img src="https://github.com/perpet99/TVerse/blob/master/8.jpg" width="200" height="200">
 
 
-8. click test2 and check log ("")
+7. click "test upload file" button and wait discord message  
 
-9. click test3 and check log ("")
-10. start monitoring!
+<img src="https://github.com/perpet99/TVerse/blob/master/11.jpg" width="200" height="200">
+
+<img src="https://github.com/perpet99/TVerse/blob/master/9.jpg" width="200" height="200">
+
+
+10. click start monitoring!
 
 
 
