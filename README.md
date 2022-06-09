@@ -4,60 +4,209 @@ join discord
 
 https://discord.gg/ntq8qbe2
 
+# main features
+
+sentry mode event notify to your phone and access mp4 clip file
+
+https://www.youtube.com/watch?v=Gb5_qOQk3p0&t=34s
+
+auto backup mp4(recent,event,sentry)  file to cloud and pc(NAS),
+%not complete full backup%
+
+backup file viewer with GIS MAP on PC or Phone
+
+https://www.youtube.com/watch?v=KbTNceLId2c
+
+# Prerequisites
+
+# Hardware Required
+
+안쓰는핸드폰 또는 네비게이션 안드로이드 사용자  + 추가 유심 사용자
+
+android sub(second) phone(for monitoring file on tesla)
+
+sim card for internet
+
+Ez share Memory card ( above 64 GB)
+
+https://www.aliexpress.com/item/1005003277658036.html?spm=a2g0o.order_list.0.0.21ef140fBQdoRg&gatewayAdapt=glo2kor
+
+USB Reader (tested device)
+
+https://www.amazon.com/Transcend-microSDHC-Reader-TS-RDF5W-White/dp/B00FJRS8F8/ref=sr_1_4?crid=1E145VPLIN1WI&keywords=Transcend%2Busb%2Breader&qid=1652862775&sprefix=transcend%2Busb%2Breader%2Caps%2C233&sr=8-4&th=1
+
+
+# optional
+
+usim router 
+
+https://ko.aliexpress.com/premium/usim-router.html?d=y&origin=y&catId=0&initiative_id=AS_20220517234946&SearchText=usim%20router&spm=a2g0o.detail.1000002.0
+
+
+# Software
+
+TVerse App(beta)  for android
+
+https://drive.google.com/file/d/1KBeby5cV8CXx8_DTyTTqcLHPbH6BJMZN/view?usp=sharing
+
+MacroDroid
+
+https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid&hl=ko&gl=US
+
+
+# TVerse App features 
+
+notify sentry mode event(delay 3min~5min) and send sentry mp4 file clip
+
+auto backup mp4(recent,event,sentry)  file to cloud and pc(NAS),
+
+(%not complete full backup%)
+
+backup file viewer with GIS MAP on PC or Phone
+
+limited upload file count a day (upload total file size maximum 30~40 MB)
+
+tested upload file( 30-40 MB) over lte with qos 200 kbps
+
+<img src="https://github.com/perpet99/TVerse/blob/master/13.jpg" width="600" height="200">
+
+ 
+
 # how to use
 
-1.create your discord webhook (웹훅 생성)
 
-https://gall.dcinside.com/mgallery/board/view/?id=purikone_redive&no=6058523
 
-2.create your google drive account (i recommand new accout for upload video files) (영상 업로드용 구글 계정 생성)
+1.before you purchase a memory card and usb reader , check android app compatibility .
+	
+https://youtu.be/SHDU_AIXwBI
 
-https://drive.google.com/drive/my-drive
+	
+[PHONE] insert your sim card to android phone
 
-3. app downlaod and run (앱 다운로드 및 실행)
+[PHONE] download app and install
 
-4. login google drive account
+https://drive.google.com/file/d/1KBeby5cV8CXx8_DTyTTqcLHPbH6BJMZN/view?usp=sharing
 
-5.모바일 데이터만 사용하는 앱 활성화 (아래 이미지 1 번참고)
+[PHONE] google login
 
-<img src="https://github.com/perpet99/TVerse/blob/master/3.jpg" width="200" height="200">
+[PHONE] setting - use lte mode (%router user this step skip)
 
-6. wifi on And Connect Ez share (password:8888888)  ezshare 와아피아 연결
+[PHONE] setting - debug discord webhook 
 
-7. 와이파이 연결 아이콘 및 lte 연결 아이콘 활성화 확인 ( 아래 이미지 3번 확인)
-
-<img src="https://github.com/perpet99/TVerse/blob/master/4.jpg" width="200" height="100">
-
-8. Ezshare 자동연결 활성화 및 아이콘 (아래 이미지 2번참고)
-<img src="https://github.com/perpet99/TVerse/blob/master/3.jpg" width="200" height="200">
+[PHONE] run and check shut down message on discord
 
 
 
-9.input  webhook url and click update button  (웹훅을 입력하고 업데이트 버튼을 누릅니다)
+2. purchase a memory card and usb reader 
 
-<img src="https://github.com/perpet99/TVerse/blob/master/5.jpg" width="200" height="200">
+Ez share Memory card ( above 64 GB)
 
-10. check mesaage  your discord app ( 업데이트가 성공하면 디스코드에 메세지가 뜹니다.)
+https://www.aliexpress.com/item/1005003277658036.html?spm=a2g0o.order_list.0.0.21ef140fBQdoRg&gatewayAdapt=glo2kor
 
-<img src="https://github.com/perpet99/TVerse/blob/master/6.jpg" width="200" height="200">
+USB Reader (tested device)
 
-11. click "test connecting Ez share" button and wait discord message ( ez share usb 접속 테스트 버튼을 누루고 디스코드에 "test connecting Ez share success" 메세지를 확인합니다)
+https://www.amazon.com/Transcend-microSDHC-Reader-TS-RDF5W-White/dp/B00FJRS8F8/ref=sr_1_4?crid=1E145VPLIN1WI&keywords=Transcend%2Busb%2Breader&qid=1652862775&sprefix=transcend%2Busb%2Breader%2Caps%2C233&sr=8-4&th=1
 
-<img src="https://github.com/perpet99/TVerse/blob/master/10.jpg" width="200" height="200">
-
-<img src="https://github.com/perpet99/TVerse/blob/master/8.jpg" width="200" height="200">
+some usb reader can not read memory card on tesla
 
 
-12. click "test upload file" button and wait discord message  ( 파일 업로드 테스트 버튼을 클릭하고 디스코드에 "test upload file success" 메세지를 확인합니다)
+3. test app on pc with lte mode phone 
 
-<img src="https://github.com/perpet99/TVerse/blob/master/11.jpg" width="200" height="200">
+(if you want use wifi home or router ,go to number 5)
 
-<img src="https://github.com/perpet99/TVerse/blob/master/9.jpg" width="200" height="200">
+https://youtu.be/wPciX8tncHw
 
 
-13. click start monitoring! ( 모니터링 버튼을 클릭하면 센트리모드에 파일이 생기면 디스코드에 알람을 울려줍니다)
+[PC] connect usb reader to your computer
 
-<img src="https://github.com/perpet99/TVerse/blob/master/12.jpg" width="200" height="200">
+
+
+[PHONE] run TVerse android app 
+
+[PHONE] change wifi “ez share”  % password : 88888888
+
+test on pc
+
+download sentry mode test app and run
+
+https://drive.google.com/file/d/13KJFUm1LXtze9YmMReZVEaQebK4tiXf7/
+
+[PC] check usb drive
+
+[PC] click start button
+
+[PC] click sentry button
+
+4. setup automatic restart app and connect ez share wifi on pc
+
+https://youtu.be/EXXvj2aj0-M
+
+download macrodroid
+
+https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid&hl=ko&gl=US
+
+setup macro
+
+Trigger 1: Power Connected(any) ,
+Action: wait (10 sec)
+Action: Launch TVerse.Android(Force new)
+Action: connect wifi (ez share)
+
+
+	
+
+	
+# optional 
+
+5.  use router(home) wifi
+
+https://youtu.be/7lZvDBm_Mec
+
+[PC] connect usb reader to your computer
+
+[PC] connect usb router to your computer
+
+
+[PHONE] change wifi “ez share”  % password : 88888888
+
+[PHONE] change your home(router)  wifi 
+
+
+[PHONE] download macrodroid
+https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid&hl=ko&gl=US
+
+setup macro
+
+Trigger 1: Power Connected(any) ,
+Action: Launch TVerse.Android(Force new)
+
+
+Trigger 2: Notification Received (TVerse.Android,Merged) 
+
+<img src="https://github.com/perpet99/TVerse/blob/master/14.jpg" width="200" height="500">
+
+Action: connect wifi (your router wifi name)
+
+
+Trigger 3: Notification Received(TVerse.Android,Uploaded) 
+
+<img src="https://github.com/perpet99/TVerse/blob/master/15.jpg" width="200" height="500">
+
+Action: connect wifi (ez Share)
+
+
+	test on pc
+	
+[PC] download sentry mode test app and run
+https://drive.google.com/file/d/13KJFUm1LXtze9YmMReZVEaQebK4tiXf7/
+	
+	[PC] check usb drive
+
+[PC] click start button
+
+[PC] click sentry button
+
+	
 
 
 
