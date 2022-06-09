@@ -2,7 +2,7 @@
 
 join discord
 
-https://discord.gg/ntq8qbe2
+https://discord.gg/6XRVA3cHvZ
 
 # main features
 
