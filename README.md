@@ -8,7 +8,7 @@ https://discord.gg/ntq8qbe2
 
 sentry mode event notify to your phone and access mp4 clip file
 
-https://www.youtube.com/watch?v=Gb5_qOQk3p0&t=34s
+https://www.youtube.com/watch?v=Gb5_qOQk3p0&t
 
 auto backup mp4(recent,event,sentry)  file to cloud and pc(NAS),
 %not complete full backup%
